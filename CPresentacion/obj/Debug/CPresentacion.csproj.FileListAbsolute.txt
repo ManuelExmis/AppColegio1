@@ -1,0 +1,8 @@
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\bin\Debug\CPresentacion.exe.config
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\bin\Debug\CPresentacion.exe
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\bin\Debug\CPresentacion.pdb
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\obj\Debug\CPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\obj\Debug\CPresentacion.Properties.Resources.resources
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\obj\Debug\CPresentacion.csproj.GenerateResource.Cache
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\obj\Debug\CPresentacion.exe
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\obj\Debug\CPresentacion.pdb
