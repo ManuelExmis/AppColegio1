@@ -1,0 +1,7 @@
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CNegocio\bin\Debug\CDatos.dll
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CNegocio\obj\Debug\CNegocio.csprojResolveAssemblyReference.cache
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CNegocio\obj\Debug\CNegocio.pdb

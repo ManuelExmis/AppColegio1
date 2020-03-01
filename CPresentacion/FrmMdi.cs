@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CPresentacion
 {
-    public partial class Form1 : Form
+    public partial class FrmMdi : Form
     {
-        public Form1()
+        public FrmMdi()
         {
             InitializeComponent();
         }

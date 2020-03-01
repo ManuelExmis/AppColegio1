@@ -1,0 +1,5 @@
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CDatos\bin\Debug\CDatos.dll
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CDatos\bin\Debug\CDatos.pdb
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CDatos\obj\Debug\CDatos.csprojResolveAssemblyReference.cache
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CDatos\obj\Debug\CDatos.dll
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CDatos\obj\Debug\CDatos.pdb
