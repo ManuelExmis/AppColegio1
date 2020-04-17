@@ -12,3 +12,7 @@ C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion
 C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\bin\Debug\CDatos.pdb
 C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\obj\Debug\CPresentacion.Login.resources
 C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\obj\Debug\CPresentacion.FrmMdi.resources
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\obj\Debug\CPresentacion.FrmAlumnos.resources
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\obj\Debug\CPresentacion.FrmTutores.resources
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP 15\Documents\MANUEL\tesis\SolucionAppRegistroAcademico\CPresentacion\bin\Debug\Newtonsoft.Json.xml

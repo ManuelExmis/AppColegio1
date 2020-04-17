@@ -4,16 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
+using System.Configuration;
 
 namespace CDatos
 {
     public abstract class CDConexion
     {
-        private string connectionString { get; set; }
+        private readonly string connectionString;
+
+        public CDConexion()
+        {
+            connectionString = ConfigurationManager.ConnectionStrings["myConnection"].ToString();
+        }
 
         protected SqlConnection GetConnection()
         {
-            return new SqlConnection("Data Source=DESKTOP-9CA44ML;Initial Catalog=Colegio;Integrated Security=True");
+            return new SqlConnection(connectionString);
         }
     }
 }

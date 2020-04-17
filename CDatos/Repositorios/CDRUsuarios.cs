@@ -20,6 +20,7 @@ namespace CDatos.Repositorios
                 {
                     command.Connection = connection;
                     command.CommandText = "spUsuariosGetAll";
+                    command.CommandType = CommandType.StoredProcedure;
                     SqlDataReader reader = command.ExecuteReader();
                     DataTable dataTable = new DataTable();
                     dataTable.Load(reader);
